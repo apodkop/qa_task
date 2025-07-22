@@ -23,14 +23,12 @@
   ## Задание 2: Верификация верстки
 
  № | Компонент | Свойство | Ожидаемое значение | Фактическое значение | Отклонение | Скриншот | Критичность |
-|---|-----------|----------|---------------------|-----------------------|------------|----------|-------------|
-|---|-----------|----------|---------------------|-----------------------|------------|----------|-------------|
-| 1 | Кнопка "Смотреть видео" | Размер | 260x60px  |  267.03x62 |  -1.03px по ширине -2px по высоте | [ссылка] #https://drive.google.com/file/d/1wjDRw3QVxdyIobdO3V7Bwc65WLawtKOl/view?usp=drive_link |  Low |
-| 2 |  Home Создать приглашение| Размер | 205х46 | 204.28х50 |  -0.72px по ширине, -4px по высоте | [ссылка] #https://drive.google.com/file/d/1g3P1SRHMPsLLRYDsdFux1ceitYi7HCbi/view?usp=drive_link  | Medium |
-| 3 |  Home Device Главный экран "Текст" |  Расположение |  601x581 | 600x603 |-1px по ширине и -22px по высоте | [ссылка]  #https://drive.google.com/file/d/1yyXHjRIl5oV2oL0jeEaJJonvTkp-Q3R4/view?usp=drive_link |  Medium |
-| 4 |  Header_Image_iphone | Расположение |   240х484 | 560х450 | 320px по ширине и -34px по высоте | [ссылка]  #https://drive.google.com/file/d/15XP8vXP_24tjEGya0OdDWPNR4GgT27dR/view?usp=drive_link  | High |
-| 5 |  Создать приглашение | Цвет |   #EE87CB | #cf73b0 | 13% | [ссылка] #https://drive.google.com/file/d/1C_DcgIZsHRBhzKq4siPPLUVERabE-dj6/view?usp=drive_link  | Medium |
-| 6 |  header-ipad__image | Расположние | 560х775 | 560х680 | -95px по высоте | [ссылка] #https://drive.google.com/file/d/1Uvt36ssObVcggpDydudREx1so30YEQAP/view?usp=drive_link  | High |
+| 1 | Кнопка "Смотреть видео" | Размер | 260x60px  |  267.03x62 |  -1.03px по ширине -2px по высоте | https://drive.google.com/file/d/1wjDRw3QVxdyIobdO3V7Bwc65WLawtKOl/view?usp=drive_link |  Low |
+| 2 |  Home Создать приглашение| Размер | 205х46 | 204.28х50 |  -0.72px по ширине, -4px по высоте |  https://drive.google.com/file/d/1g3P1SRHMPsLLRYDsdFux1ceitYi7HCbi/view?usp=drive_link  | Medium |
+| 3 |  Home Device Главный экран "Текст" |  Расположение |  601x581 | 600x603 |-1px по ширине и -22px по высоте | https://drive.google.com/file/d/1yyXHjRIl5oV2oL0jeEaJJonvTkp-Q3R4/view?usp=drive_link |  Medium |
+| 4 |  Header_Image_iphone | Расположение |   240х484 | 560х450 | 320px по ширине и -34px по высоте | https://drive.google.com/file/d/15XP8vXP_24tjEGya0OdDWPNR4GgT27dR/view?usp=drive_link  | High |
+| 5 |  Создать приглашение | Цвет |   #EE87CB | #cf73b0 | 13% | https://drive.google.com/file/d/1C_DcgIZsHRBhzKq4siPPLUVERabE-dj6/view?usp=drive_link  | Medium |
+| 6 |  header-ipad__image | Расположние | 560х775 | 560х680 | -95px по высоте | https://drive.google.com/file/d/1Uvt36ssObVcggpDydudREx1so30YEQAP/view?usp=drive_link  | High |
 | 7 |  Текст H2  |  Расположение  |  1210x48 | 1400x96 | +190px по ширине и +38px по высоте |  [ссылка]  |  High |
 | 8 |  Кнопка "Сменить"  |  Цвет  |  E22222 | EE2020 | -2% | [ссылка] |  Low |
 | 9 |  Кнопка "Группа ВК" |  Расположение  |  220x46 | 217.27x46 |  -2.73px по ширине | [ссылка] #https://drive.google.com/file/d/1Eq7ItrrcR51VvkXL_7BMXdc1zwIgvucL/view?usp=drive_link  | Low |
