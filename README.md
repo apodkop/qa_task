@@ -23,8 +23,10 @@
   ## Задание 2: Верификация верстки
 
  № | Компонент | Свойство | Ожидаемое значение | Фактическое значение | Отклонение | Скриншот | Критичность |
-| 1 | Кнопка "Смотреть видео" | Размер | 260x60px  |  267.03x62 |  -1.03px по ширине -2px по высоте | [ссылка] (https://drive.google.com/file/d/1wjDRw3QVxdyIobdO3V7Bwc65WLawtKOl/view?usp=drive_link) |  Low |
-| 2 |  Home Создать приглашение| Размер | 205х46 | 204.28х50 |  -0.72px по ширине, -4px по высоте | [ссылка] (https://drive.google.com/file/d/1g3P1SRHMPsLLRYDsdFux1ceitYi7HCbi/view?usp=drive_link)  | Medium |
+|---|-----------|----------|---------------------|-----------------------|------------|----------|-------------|
+|---|-----------|----------|---------------------|-----------------------|------------|----------|-------------|
+| 1 | Кнопка "Смотреть видео" | Размер | 260x60px  |  267.03x62 |  -1.03px по ширине -2px по высоте | [ссылка] #https://drive.google.com/file/d/1wjDRw3QVxdyIobdO3V7Bwc65WLawtKOl/view?usp=drive_link |  Low |
+| 2 |  Home Создать приглашение| Размер | 205х46 | 204.28х50 |  -0.72px по ширине, -4px по высоте | [ссылка] #https://drive.google.com/file/d/1g3P1SRHMPsLLRYDsdFux1ceitYi7HCbi/view?usp=drive_link  | Medium |
 | 3 |  Home Device Главный экран "Текст" |  Расположение |  601x581 | 600x603 |-1px по ширине и -22px по высоте | [ссылка]  #https://drive.google.com/file/d/1yyXHjRIl5oV2oL0jeEaJJonvTkp-Q3R4/view?usp=drive_link |  Medium |
 | 4 |  Header_Image_iphone | Расположение |   240х484 | 560х450 | 320px по ширине и -34px по высоте | [ссылка]  #https://drive.google.com/file/d/15XP8vXP_24tjEGya0OdDWPNR4GgT27dR/view?usp=drive_link  | High |
 | 5 |  Создать приглашение | Цвет |   #EE87CB | #cf73b0 | 13% | [ссылка] #https://drive.google.com/file/d/1C_DcgIZsHRBhzKq4siPPLUVERabE-dj6/view?usp=drive_link  | Medium |
@@ -51,6 +53,7 @@
 |26| images/added-photo-1 |   Расположение |   55.16х69.21 | 60х74  | +4.84px по ширине и +4.79 по высоте | [ссылка]  #https://drive.google.com/file/d/1yq4vQ--qybkz_-EGWB_Io6LyaMREYaQc/view?usp=drive_link  | High |
 |27| col-9  | Расположение |   960х350 | 960.047х276.375 | +0.047px по ширине и -73.63 по высоте |  [ссылка] #https://drive.google.com/file/d/1dDlllkfdGoAmS50A_YEr54S0i1K6rFM_/view?usp=drive_link  | Medium |
 |28| edit-photo |  Расположение |   960х529 | 960х475.750 | -53,250px по высоте | [ссылка] #https://drive.google.com/file/d/17Aj3Juw1h5xrcU_Uo30cexb1LjvLgfCn/view?usp=drive_link  | High |
+
 
 
 
