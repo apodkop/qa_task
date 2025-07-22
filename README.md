@@ -22,36 +22,38 @@
 
   ## Задание 2: Верификация верстки
 
+
  № | Компонент | Свойство | Ожидаемое значение | Фактическое значение | Отклонение | Скриншот | Критичность |
+|---|-----------|----------|---------------------|-----------------------|------------|----------|-------------|
+|---|-----------|----------|---------------------|-----------------------|------------|----------|-------------|
 | 1 | Кнопка "Смотреть видео" | Размер | 260x60px  |  267.03x62 |  -1.03px по ширине -2px по высоте | https://drive.google.com/file/d/1wjDRw3QVxdyIobdO3V7Bwc65WLawtKOl/view?usp=drive_link |  Low |
-| 2 |  Home Создать приглашение| Размер | 205х46 | 204.28х50 |  -0.72px по ширине, -4px по высоте |  https://drive.google.com/file/d/1g3P1SRHMPsLLRYDsdFux1ceitYi7HCbi/view?usp=drive_link  | Medium |
+| 2 |  Home Создать приглашение| Размер | 205х46 | 204.28х50 |  -0.72px по ширине, -4px по высоте | https://drive.google.com/file/d/1g3P1SRHMPsLLRYDsdFux1ceitYi7HCbi/view?usp=drive_link  | Medium |
 | 3 |  Home Device Главный экран "Текст" |  Расположение |  601x581 | 600x603 |-1px по ширине и -22px по высоте | https://drive.google.com/file/d/1yyXHjRIl5oV2oL0jeEaJJonvTkp-Q3R4/view?usp=drive_link |  Medium |
 | 4 |  Header_Image_iphone | Расположение |   240х484 | 560х450 | 320px по ширине и -34px по высоте | https://drive.google.com/file/d/15XP8vXP_24tjEGya0OdDWPNR4GgT27dR/view?usp=drive_link  | High |
 | 5 |  Создать приглашение | Цвет |   #EE87CB | #cf73b0 | 13% | https://drive.google.com/file/d/1C_DcgIZsHRBhzKq4siPPLUVERabE-dj6/view?usp=drive_link  | Medium |
 | 6 |  header-ipad__image | Расположние | 560х775 | 560х680 | -95px по высоте | https://drive.google.com/file/d/1Uvt36ssObVcggpDydudREx1so30YEQAP/view?usp=drive_link  | High |
 | 7 |  Текст H2  |  Расположение  |  1210x48 | 1400x96 | +190px по ширине и +38px по высоте |  [ссылка]  |  High |
 | 8 |  Кнопка "Сменить"  |  Цвет  |  E22222 | EE2020 | -2% | [ссылка] |  Low |
-| 9 |  Кнопка "Группа ВК" |  Расположение  |  220x46 | 217.27x46 |  -2.73px по ширине | [ссылка] #https://drive.google.com/file/d/1Eq7ItrrcR51VvkXL_7BMXdc1zwIgvucL/view?usp=drive_link  | Low |
-| 10| Создание 3 | Расположение |   1400х470 |   1400х480.391 |   +10.391px по высоте | [ссылка] #https://drive.google.com/file/d/1KoOzP6M6YeIVGaGTRzoMIAg4fA5NFnZE/view?usp=drive_link |  Medium |
-| 11| Пробный период | Расположение  |  1400х470  |  1320х396.781 |   -80px по ширине и -73.219px по высоте | [ссылка]  #https://drive.google.com/file/d/1PCZJJOkL43hvrtGqd8KN-DolWi7SYasz/view?usp=drive_link  | High |
-| 12| Текст H1  |  Расположение  |  1400х60 | 1400х48 | -12px по ширине +10.19px по высоте |  [ссылка] #https://drive.google.com/file/d/1BxMQOZS7ZK2a0NBhFspg3ldo4rQwN32L/view?usp=drive_link  | Medium |
-| 13| Логин и пароль | Расположение  |  320х84 | 380х94.19 |  60 | [ссылка] #https://drive.google.com/file/d/1QkgGZLKq0b18bde11yIdQeVulSSe4-Pp/view?usp=drive_link |  Medium |
-| 14| Кнопка "Войти в личный кабинет" | Расположение  |  320х50 | 238х20 | -82px по ширине и -30 по высоте | [ссылка] #https://drive.google.com/file/d/12jAf558ann9gIj3c8D-UqDA9A16nyXtJ/view?usp=drive_link |  High |
-| 15| Текст Регистрация |  Расположение  |  293х47 | 292.844х48 |  -0.156px по ширине и +1px по высоте | [ссылка] #https://drive.google.com/file/d/1fzRAzelCkhQoTnrCBk3L_KIUfJq9h3iA/view?usp=drive_link  | Low |
-| 16| Регистрация поле e-mail, телефон, пароль |   Расположение |   400х84 | +335х124.188 -65px по ширине и +40.188 по высоте | [ссылка] #https://drive.google.com/file/d/1vs0Xk0y1PIt4GONT6YpxEjvJxOgzLjnR/view?usp=drive_link  | High |
-|17| Кнопка "Стать партнером"  |  Расположение |   227х60 | 226.78.62 |  -0.22px по ширине и +18.2 по высоте | [ссылка] #https://drive.google.com/file/d/1NH_2QWtfykn9bZ_aARRBz0n40YFa4sOs/view?usp=drive_link |  Low |
-|18| order-item__date  |  Расположение |   176x30 | 890x30 | +714px по ширине | [ссылка] #https://drive.google.com/file/d/1PVr-uomljwIrPaWor3k9GPS-mZuHwMz5/view?usp=drive_link  | High |
-|19| copy-offset | Расположение  |  433x36 | 345.89x35  | +87.11px по ширине -1px по высоте  |  [ссылка] #https://drive.google.com/file/d/1Xtprqts8SXBzDt2wBca0u7UCLU7dTNlF/view?usp=drive_link  | High |
-|20| frame frame--shadow frame--single  | Расположение  |  440х390 | 440х410.39 | +20.39px по высоте | [ссылка]  #https://drive.google.com/file/d/1aPk4BaOF_kvtp94NQLZcJpMvw7eBKABA/view?usp=drive_link  | High |
-|21| col-12 | Расположнение  |  1400х120  |  1400х175.172  |  +55.172px по высоте | [ссылка] #https://drive.google.com/file/d/1dDlllkfdGoAmS50A_YEr54S0i1K6rFM_/view?usp=drive_link |  High |
-|22| edit_side  | Расположение  |  320х800 | 320x4967.690  |  +4167.69px по высоте | [ссылка] #https://drive.google.com/file/d/1_ql-lSh76Fv-h6PLOySiwI2LZLi0pV1u/view?usp=drive_link  | High |
-|23| Кнопка "Выбрать файл" |   Расположение |   168х46 |  170х50 | +2px по ширине и 4 по высоте   | [ссылка] #https://drive.google.com/file/d/1hAgSgsvdiZukx2Yv7X7zNA04ke2Wr0sj/view?usp=drive_link |  Low |
-|24| Кнопка "Оплатить" |  Расположние | 280х46 | 266х52 | +14px по высоте и +6px ширине | [ссылка]  #https://drive.google.com/file/d/1u-YvKiAK2LvprwxFryREe8ZyejkZyhMW/view?usp=drive_link |  High |
-|25| text-bold number  |  Расположение | | | | | [ссылка] #https://drive.google.com/file/d/119JYeIjjDbacY7UwpYVJtfBMzW5JMjlu/view?usp=drive_link  | High |
-|26| images/added-photo-1 |   Расположение |   55.16х69.21 | 60х74  | +4.84px по ширине и +4.79 по высоте | [ссылка]  #https://drive.google.com/file/d/1yq4vQ--qybkz_-EGWB_Io6LyaMREYaQc/view?usp=drive_link  | High |
-|27| col-9  | Расположение |   960х350 | 960.047х276.375 | +0.047px по ширине и -73.63 по высоте |  [ссылка] #https://drive.google.com/file/d/1dDlllkfdGoAmS50A_YEr54S0i1K6rFM_/view?usp=drive_link  | Medium |
-|28| edit-photo |  Расположение |   960х529 | 960х475.750 | -53,250px по высоте | [ссылка] #https://drive.google.com/file/d/17Aj3Juw1h5xrcU_Uo30cexb1LjvLgfCn/view?usp=drive_link  | High |
-
+| 9 |  Кнопка "Группа ВК" |  Расположение  |  220x46 | 217.27x46 |  -2.73px по ширине | https://drive.google.com/file/d/1Eq7ItrrcR51VvkXL_7BMXdc1zwIgvucL/view?usp=drive_link  | Low |
+| 10| Создание 3 | Расположение |   1400х470 |   1400х480.391 |   +10.391px по высоте | https://drive.google.com/file/d/1KoOzP6M6YeIVGaGTRzoMIAg4fA5NFnZE/view?usp=drive_link |  Medium |
+| 11| Пробный период | Расположение  |  1400х470  |  1320х396.781 |   -80px по ширине и -73.219px по высоте | https://drive.google.com/file/d/1PCZJJOkL43hvrtGqd8KN-DolWi7SYasz/view?usp=drive_link  | High |
+| 12| Текст H1  |  Расположение  |  1400х60 | 1400х48 | -12px по ширине +10.19px по высоте |  https://drive.google.com/file/d/1BxMQOZS7ZK2a0NBhFspg3ldo4rQwN32L/view?usp=drive_link  | Medium |
+| 13| Логин и пароль | Расположение  |  320х84 | 380х94.19 |  60 | https://drive.google.com/file/d/1QkgGZLKq0b18bde11yIdQeVulSSe4-Pp/view?usp=drive_link |  Medium |
+| 14| Кнопка "Войти в личный кабинет" | Расположение  |  320х50 | 238х20 | -82px по ширине и -30 по высоте | https://drive.google.com/file/d/12jAf558ann9gIj3c8D-UqDA9A16nyXtJ/view?usp=drive_link |  High |
+| 15| Текст Регистрация |  Расположение  |  293х47 | 292.844х48 |  -0.156px по ширине и +1px по высоте | https://drive.google.com/file/d/1fzRAzelCkhQoTnrCBk3L_KIUfJq9h3iA/view?usp=drive_link  | Low |
+| 16| Регистрация поле e-mail, телефон, пароль |   Расположение |   400х84 | +335х124.188 -65px по ширине и +40.188 по высоте | https://drive.google.com/file/d/1vs0Xk0y1PIt4GONT6YpxEjvJxOgzLjnR/view?usp=drive_link  | High |
+|17| Кнопка "Стать партнером"  |  Расположение |   227х60 | 226.78.62 |  -0.22px по ширине и +18.2 по высоте | https://drive.google.com/file/d/1NH_2QWtfykn9bZ_aARRBz0n40YFa4sOs/view?usp=drive_link |  Low |
+|18| order-item__date  |  Расположение |   176x30 | 890x30 | +714px по ширине | https://drive.google.com/file/d/1PVr-uomljwIrPaWor3k9GPS-mZuHwMz5/view?usp=drive_link  | High |
+|19| copy-offset | Расположение  |  433x36 | 345.89x35  | +87.11px по ширине -1px по высоте  |  https://drive.google.com/file/d/1Xtprqts8SXBzDt2wBca0u7UCLU7dTNlF/view?usp=drive_link  | High |
+|20| frame frame--shadow frame--single  | Расположение  |  440х390 | 440х410.39 | +20.39px по высоте | https://drive.google.com/file/d/1aPk4BaOF_kvtp94NQLZcJpMvw7eBKABA/view?usp=drive_link  | High |
+|21| col-12 | Расположнение  |  1400х120  |  1400х175.172  |  +55.172px по высоте | https://drive.google.com/file/d/1dDlllkfdGoAmS50A_YEr54S0i1K6rFM_/view?usp=drive_link |  High |
+|22| edit_side  | Расположение  |  320х800 | 320x4967.690  |  +4167.69px по высоте | https://drive.google.com/file/d/1_ql-lSh76Fv-h6PLOySiwI2LZLi0pV1u/view?usp=drive_link  | High |
+|23| Кнопка "Выбрать файл" |   Расположение |   168х46 |  170х50 | +2px по ширине и 4 по высоте   | https://drive.google.com/file/d/1hAgSgsvdiZukx2Yv7X7zNA04ke2Wr0sj/view?usp=drive_link |  Low |
+|24| Кнопка "Оплатить" |  Расположние | 280х46 | 266х52 | +14px по высоте и +6px ширине | https://drive.google.com/file/d/1u-YvKiAK2LvprwxFryREe8ZyejkZyhMW/view?usp=drive_link |  High |
+|25| text-bold number  |  Расположение | | | | https://drive.google.com/file/d/119JYeIjjDbacY7UwpYVJtfBMzW5JMjlu/view?usp=drive_link  | High |
+|26| images/added-photo-1 |   Расположение |   55.16х69.21 | 60х74  | +4.84px по ширине и +4.79 по высоте | https://drive.google.com/file/d/1yq4vQ--qybkz_-EGWB_Io6LyaMREYaQc/view?usp=drive_link  | High |
+|27| col-9  | Расположение |   960х350 | 960.047х276.375 | +0.047px по ширине и -73.63 по высоте |  https://drive.google.com/file/d/1dDlllkfdGoAmS50A_YEr54S0i1K6rFM_/view?usp=drive_link  | Medium |
+|28| edit-photo |  Расположение |   960х529 | 960х475.750 | -53,250px по высоте | https://drive.google.com/file/d/17Aj3Juw1h5xrcU_Uo30cexb1LjvLgfCn/view?usp=drive_link  | High |
 
 
 
