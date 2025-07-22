@@ -23,9 +23,7 @@
   ## Задание 2: Верификация верстки
 
 
- № | Компонент | Свойство | Ожидаемое значение | Фактическое значение | Отклонение | Скриншот | Критичность |
-|---|-----------|----------|---------------------|-----------------------|------------|----------|-------------|
-|---|-----------|----------|---------------------|-----------------------|------------|----------|-------------|
+| № | Компонент | Свойство | Ожидаемое значение | Фактическое значение | Отклонение | Скриншот | Критичность |
 | 1 | Кнопка "Смотреть видео" | Размер | 260x60px  |  267.03x62 |  -1.03px по ширине -2px по высоте | https://drive.google.com/file/d/1wjDRw3QVxdyIobdO3V7Bwc65WLawtKOl/view?usp=drive_link |  Low |
 | 2 |  Home Создать приглашение| Размер | 205х46 | 204.28х50 |  -0.72px по ширине, -4px по высоте | https://drive.google.com/file/d/1g3P1SRHMPsLLRYDsdFux1ceitYi7HCbi/view?usp=drive_link  | Medium |
 | 3 |  Home Device Главный экран "Текст" |  Расположение |  601x581 | 600x603 |-1px по ширине и -22px по высоте | https://drive.google.com/file/d/1yyXHjRIl5oV2oL0jeEaJJonvTkp-Q3R4/view?usp=drive_link |  Medium |
@@ -41,7 +39,7 @@
 | 13| Логин и пароль | Расположение  |  320х84 | 380х94.19 |  60 | https://drive.google.com/file/d/1QkgGZLKq0b18bde11yIdQeVulSSe4-Pp/view?usp=drive_link |  Medium |
 | 14| Кнопка "Войти в личный кабинет" | Расположение  |  320х50 | 238х20 | -82px по ширине и -30 по высоте | https://drive.google.com/file/d/12jAf558ann9gIj3c8D-UqDA9A16nyXtJ/view?usp=drive_link |  High |
 | 15| Текст Регистрация |  Расположение  |  293х47 | 292.844х48 |  -0.156px по ширине и +1px по высоте | https://drive.google.com/file/d/1fzRAzelCkhQoTnrCBk3L_KIUfJq9h3iA/view?usp=drive_link  | Low |
-| 16| Регистрация поле e-mail, телефон, пароль |   Расположение |   400х84 | +335х124.188 -65px по ширине и +40.188 по высоте | https://drive.google.com/file/d/1vs0Xk0y1PIt4GONT6YpxEjvJxOgzLjnR/view?usp=drive_link  | High |
+| 16| Регистрация поле e-mail, телефон, пароль |   Расположение |   400х84 | +335х124.188 | -65px по ширине и +40.188 по высоте | https://drive.google.com/file/d/1vs0Xk0y1PIt4GONT6YpxEjvJxOgzLjnR/view?usp=drive_link  | High |
 |17| Кнопка "Стать партнером"  |  Расположение |   227х60 | 226.78.62 |  -0.22px по ширине и +18.2 по высоте | https://drive.google.com/file/d/1NH_2QWtfykn9bZ_aARRBz0n40YFa4sOs/view?usp=drive_link |  Low |
 |18| order-item__date  |  Расположение |   176x30 | 890x30 | +714px по ширине | https://drive.google.com/file/d/1PVr-uomljwIrPaWor3k9GPS-mZuHwMz5/view?usp=drive_link  | High |
 |19| copy-offset | Расположение  |  433x36 | 345.89x35  | +87.11px по ширине -1px по высоте  |  https://drive.google.com/file/d/1Xtprqts8SXBzDt2wBca0u7UCLU7dTNlF/view?usp=drive_link  | High |
@@ -54,6 +52,7 @@
 |26| images/added-photo-1 |   Расположение |   55.16х69.21 | 60х74  | +4.84px по ширине и +4.79 по высоте | https://drive.google.com/file/d/1yq4vQ--qybkz_-EGWB_Io6LyaMREYaQc/view?usp=drive_link  | High |
 |27| col-9  | Расположение |   960х350 | 960.047х276.375 | +0.047px по ширине и -73.63 по высоте |  https://drive.google.com/file/d/1dDlllkfdGoAmS50A_YEr54S0i1K6rFM_/view?usp=drive_link  | Medium |
 |28| edit-photo |  Расположение |   960х529 | 960х475.750 | -53,250px по высоте | https://drive.google.com/file/d/17Aj3Juw1h5xrcU_Uo30cexb1LjvLgfCn/view?usp=drive_link  | High |
+
 
 
 
